@@ -1,0 +1,10 @@
+This build is of RUST + NODE that is containerized using docker compose as well as build.
+This model is developed by dev. Shyam @Unique-Force. 
+DATE OF CREATION = 12-feb-2024
+
+docker configs links
+https://hub.docker.com/_/rust/
+https://hub.docker.com/_/node
+
+Warning !
+The node build is done normally but the rust docker is built in straight forward method to reduce the container size of docker.
